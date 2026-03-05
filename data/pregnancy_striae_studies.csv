@@ -1,0 +1,11 @@
+study_source,sample_size,gestational_week_range,striae_prevalence_percent,risk_factors_identified,elasticity_reduction_percent,abdominal_circumference_increase_cm,measurement_method,country
+Makino et al. 2008,100,12-40,66.0,"Young age, family history",30,35,Cutometer,Japan
+Buchanan et al. 2021,75,20-40,72.0,"Weight gain, skin elasticity",25,38,Ultrasound,USA
+Wang et al. 2019,120,28-40,55.0,"BMI, gestational weight gain",35,32,Clinical exam,China
+Piérard 2010,85,12-40,67.9,Younger maternal age,28,36,Cutometer,Belgium
+Elsaie et al. 2009,200,24-40,60.0,"Family history, weight gain",32,40,Visual assessment,Egypt
+Atwal et al. 2006,324,12-40,88.0,"Family history, younger age",27,34,Davos scoring,UK
+Osman et al. 2007,180,20-38,70.0,"Higher BMI, stretched skin",33,37,Clinical exam,Sudan
+Chang et al. 2004,112,28-40,63.0,Weight gain >15kg,30,33,Cutometer,Taiwan
+Salter et al. 2006,60,24-38,75.0,"Skin type, hydration",29,39,Corneometer,UK
+Tunzi & Gray 2007,150,12-40,67.0,"Age < 25, family history",31,35,Clinical review,USA

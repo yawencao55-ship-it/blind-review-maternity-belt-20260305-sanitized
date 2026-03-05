@@ -1,0 +1,18 @@
+{
+  "analysis_date": "2026-02-06 10:07",
+  "total_datasets": 6,
+  "total_records": 1257,
+  "fea_analysis": {
+    "total_simulations": 200,
+    "unique_subjects": 20,
+    "belt_designs_tested": 10,
+    "mean_stress_reduction": 56.73537705827186,
+    "max_stress_reduction": 71.81088305967069,
+    "mean_risk_reduction": 14.183844264567965,
+    "mean_comfort_score": 45.5
+  },
+  "optimal_design": {
+    "belt_width_cm": 11.77777777777778,
+    "optimization_score": 82.780823645125
+  }
+}

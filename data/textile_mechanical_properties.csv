@@ -1,0 +1,11 @@
+material_type,composition,youngs_modulus_MPa,tensile_strength_MPa,elongation_at_break_percent,thickness_mm,poissons_ratio,typical_application,compression_range_mmHg
+Nylon-Spandex Blend,"80% Nylon, 20% Spandex",0.5,15.0,350,1.0,0.35,Belt main body,15-25
+Polyester-Elastane,"85% Polyester, 15% Elastane",0.8,25.0,280,0.8,0.38,Belt main body,20-30
+Cotton-Lycra,"92% Cotton, 8% Lycra",0.3,8.0,400,1.5,0.32,Comfort liner,10-15
+Neoprene,100% Neoprene,1.5,6.0,200,3.0,0.4,Support panel,25-35
+Medical Grade Compression Fabric,"70% Nylon, 30% Elastane",1.2,20.0,320,1.2,0.36,Compression zones,23-32
+Breathable Mesh,100% Polyester mesh,0.2,12.0,150,0.5,0.3,Ventilation zones,0-5
+Rigid Support Panel (Thermoplastic),ABS/Polypropylene,25.0,35.0,5,2.0,0.35,Lumbar support,N/A
+Foam Padding,Polyurethane foam,0.01,0.3,200,5.0,0.45,Comfort padding,N/A
+Hook-Loop Fastener,Nylon loops,15.0,25.0,10,2.5,0.3,Closure system,N/A
+Elastic Webbing,Woven elastic polyester,2.0,18.0,100,1.5,0.35,Adjustable straps,N/A

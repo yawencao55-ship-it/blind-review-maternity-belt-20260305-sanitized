@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "title": "皮肤生物力学参数文献数据",
+        "description": "基于已发表研究文献的皮肤力学参数汇总",
+        "last_updated": "2026-01-27",
+        "sources": [
+            "NIH - Skin Mechanical Properties Studies",
+            "Journal of Biomechanics",
+            "Journal of the Mechanical Behavior of Biomedical Materials"
+        ]
+    },
+    "skin_layers": {
+        "epidermis": {
+            "thickness_mm": {
+                "mean": 0.1,
+                "min": 0.05,
+                "max": 0.15,
+                "unit": "mm"
+            },
+            "youngs_modulus_kPa": {
+                "mean": 1100,
+                "min": 800,
+                "max": 1300,
+                "unit": "kPa",
+                "note": "约1.1 MPa"
+            },
+            "poissons_ratio": {
+                "mean": 0.48,
+                "min": 0.45,
+                "max": 0.50
+            }
+        },
+        "dermis": {
+            "thickness_mm": {
+                "mean": 2.0,
+                "min": 1.5,
+                "max": 3.0,
+                "unit": "mm"
+            },
+            "youngs_modulus_kPa": {
+                "mean": 150,
+                "min": 88,
+                "max": 300,
+                "unit": "kPa"
+            },
+            "poissons_ratio": {
+                "mean": 0.48,
+                "min": 0.45,
+                "max": 0.50
+            }
+        },
+        "hypodermis": {
+            "thickness_mm": {
+                "mean": 10.0,
+                "min": 5.0,
+                "max": 20.0,
+                "unit": "mm",
+                "note": "高度变异，受BMI影响"
+            },
+            "youngs_modulus_kPa": {
+                "mean": 2.0,
+                "min": 0.5,
+                "max": 5.0,
+                "unit": "kPa"
+            },
+            "poissons_ratio": {
+                "mean": 0.49,
+                "min": 0.48,
+                "max": 0.50
+            }
+        }
+    },
+    "pregnancy_skin_changes": {
+        "elasticity_reduction_percent": {
+            "mean": 30,
+            "min": 15,
+            "max": 50,
+            "note": "孕期皮肤弹性下降百分比"
+        },
+        "abdominal_skin_area_increase_percent": {
+            "second_trimester": 20,
+            "third_trimester": 40,
+            "max": 43
+        },
+        "critical_stretch_ratio": {
+            "min": 1.02,
+            "max": 1.05,
+            "note": "触发皮肤生长的临界拉伸比"
+        },
+        "striae_gravidarum_prevalence_percent": {
+            "mean": 70,
+            "min": 50,
+            "max": 90
+        }
+    },
+    "maternity_belt_properties": {
+        "elastic_fabric": {
+            "youngs_modulus_MPa": {
+                "mean": 0.5,
+                "min": 0.1,
+                "max": 2.0,
+                "unit": "MPa"
+            },
+            "poissons_ratio": 0.35
+        },
+        "rigid_support_panel": {
+            "youngs_modulus_MPa": {
+                "mean": 10,
+                "min": 5,
+                "max": 50,
+                "unit": "MPa"
+            },
+            "poissons_ratio": 0.30
+        },
+        "typical_dimensions": {
+            "width_cm": {
+                "narrow": 10,
+                "wide": 20
+            },
+            "thickness_mm": {
+                "mean": 3,
+                "min": 2,
+                "max": 5
+            }
+        }
+    },
+    "pressure_thresholds": {
+        "comfort_range_kPa": {
+            "min": 1.0,
+            "max": 3.5,
+            "optimal": 2.5
+        },
+        "therapeutic_range_kPa": {
+            "min": 2.0,
+            "max": 4.0
+        },
+        "discomfort_threshold_kPa": 5.0,
+        "tissue_damage_threshold_kPa": 10.0
+    }
+}

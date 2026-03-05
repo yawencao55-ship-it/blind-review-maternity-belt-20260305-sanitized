@@ -1,0 +1,16 @@
+study_source,test_method,body_region,youngs_modulus_kPa,poissons_ratio,skin_layer,sample_size,age_range,notes
+Agache et al. 1980,Torsion,Forearm,420.0,0.48,Full thickness,30,20-80,Age-dependent increase in stiffness
+Bischoff et al. 2000,Tensile in-vivo,Forearm,129.0,0.48,Full thickness,12,25-45,In vivo measurement with suction device
+Escoffier et al. 1989,Suction,Forearm,54.0,0.49,Dermis,40,20-70,Classified R0-R8 parameters
+Hendriks et al. 2003,Suction,Forearm,23.0,0.48,Full thickness,20,20-50,Multi-layer FE model fitting
+Diridollou et al. 2000,Suction,Various,35.0,0.48,Full thickness,25,20-60,Regional variation study
+Boyer et al. 2009,Indentation,Forearm,7.2,0.45,Epidermis,15,30-60,Atomic force microscopy
+Khatyr et al. 2004,Tensile ex-vivo,Abdomen,19300.0,0.48,Full thickness,8,N/A,Post-mortem tissue
+Pailler-Mattei et al. 2008,Indentation,Forearm,8.0,0.45,Stratum corneum,22,25-65,Surface layer measurement
+Liang & Boppart 2010,OCT elastography,Various,266.0,0.48,Dermis,10,20-40,Optical coherence tomography
+Jachowicz et al. 2007,Indentation,Face,50.0,0.49,Epidermis,45,25-55,Commercial skincare testing
+Sanders 1973,Tensile ex-vivo,Back,4600.0,0.48,Full thickness,6,N/A,Early biomechanics study
+Edwards & Marks 1995,Tensile in-vivo,Forearm,840.0,0.48,Full thickness,35,20-80,Langer's lines orientation effect
+Flynn et al. 2011,Biaxial tensile,Abdomen,83.0,0.49,Full thickness,18,50-90,Pre-stretched conditions
+Ni Annaidh et al. 2012,Tensile ex-vivo,Back,21000.0,0.48,Full thickness,12,N/A,Speed-dependent response
+Oomens et al. 1987,Indentation,Thigh,2.5,0.49,Hypodermis,10,30-50,Fat layer properties

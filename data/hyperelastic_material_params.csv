@@ -1,0 +1,21 @@
+material_id,material_name,material_type,neo_hookean_C10_kPa,mooney_rivlin_C10_kPa,mooney_rivlin_C01_kPa,ogden_mu_kPa,ogden_alpha,bulk_modulus_kPa,density_kg_m3,reference_source
+1,Skin epidermis,biological,50.0,40.0,10.0,100.0,10.0,38777.39181777349,1100,Flynn et al. 2011
+2,Skin dermis young,biological,25.0,20.0,5.0,50.0,12.0,25195.984221855146,1200,Hendriks et al. 2003
+3,Skin dermis aged,biological,35.0,28.0,7.0,70.0,11.0,26613.90863971771,1150,Agache et al. 1980
+4,Skin hypodermis,biological,1.0,0.8,0.2,2.0,6.0,21949.509899568933,950,Oomens et al. 1987
+5,Pregnant skin 2nd trimester,biological,20.0,16.0,4.0,40.0,11.0,2245.537210460664,1150,Buchanan et al. 2021
+6,Pregnant skin 3rd trimester,biological,15.0,12.0,3.0,30.0,10.0,6286.679922671918,1150,Makino et al. 2008
+7,Subcutaneous fat soft,biological,0.5,0.4,0.1,1.0,5.0,2540.0300986499783,900,Gefen et al. 2013
+8,Subcutaneous fat firm,biological,1.5,1.2,0.3,3.0,5.5,32184.11015192524,920,Comley et al. 2010
+9,Visceral fat,biological,0.3,0.25,0.05,0.5,4.5,16403.443072740007,890,Miller et al. 2012
+10,Abdominal muscle relaxed,biological,5.0,4.0,1.0,10.0,8.0,25919.963867070437,1050,Ikai et al. 1968
+11,Abdominal muscle contracted,biological,15.0,12.0,3.0,30.0,9.0,45470.75722237856,1080,Zheng et al. 2012
+12,Nylon spandex blend,synthetic,100.0,80.0,20.0,200.0,4.0,13215.319228294873,1150,Manufacturer data
+13,Polyester elastane,synthetic,150.0,120.0,30.0,300.0,5.0,21108.76322874586,1200,ASTM D4964
+14,Neoprene foam,synthetic,50.0,40.0,10.0,100.0,3.0,38022.005788609385,1100,ISO 9073
+15,Medical compression fabric,synthetic,200.0,160.0,40.0,400.0,6.0,12211.1101090895,1250,Medical textile standard
+16,Cotton lycra,synthetic,80.0,64.0,16.0,160.0,4.0,4772.015581610856,1100,Fabric testing lab
+17,Silicone rubber soft,synthetic,30.0,24.0,6.0,60.0,7.0,15197.821192774632,1100,Rubber handbook
+18,Silicone rubber firm,synthetic,80.0,64.0,16.0,160.0,6.0,8899.843075446217,1150,Rubber handbook
+19,Polyurethane foam,synthetic,10.0,8.0,2.0,20.0,5.0,46555.18496478608,500,Foam standards
+20,Latex rubber,synthetic,120.0,96.0,24.0,240.0,8.0,40597.89859865643,1050,ASTM D412

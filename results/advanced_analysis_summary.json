@@ -1,0 +1,10 @@
+{
+  "mean_optimal_width_cm": 21.065714285714286,
+  "std_optimal_width_cm": 1.190763425018035,
+  "mean_stress_reduction_percent": 65.0,
+  "mean_risk_reduction_percent": 1.5624999999999998,
+  "mean_comfort_score": 69.25714285714287,
+  "mean_total_score": 76.31664841269843,
+  "optimal_width_range": "20.1-22.6 cm",
+  "n_subjects": 50
+}
